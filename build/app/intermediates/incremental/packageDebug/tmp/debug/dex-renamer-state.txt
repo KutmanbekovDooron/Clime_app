@@ -1,0 +1,4 @@
+#Wed Mar 09 17:20:48 KGT 2022
+base.0=/Users/tulpardev/StudioProjects/Clima-Flutter/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
